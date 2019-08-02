@@ -5,4 +5,6 @@
 # SyncTool
 - [x] Full implementation of `ConflictSeeker.GetConflicts`
 - [ ] Extract resolving policy into `RsolverPolicy`
-- [ ] Abstract from file system
+- [x] Abstract from file system
+- [ ] Tests
+- [ ] Integration with file system
