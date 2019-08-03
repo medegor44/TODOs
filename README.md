@@ -7,4 +7,5 @@
 - [ ] Extract resolving policy into `RsolverPolicy`
 - [x] Abstract from file system
 - [ ] Tests
-- [ ] Integration with file system
+- [x] Integration with file system
+- [ ] Make DirectoryWrapper(string, DirectoryWrapper) private
