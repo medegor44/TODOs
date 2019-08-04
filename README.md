@@ -7,6 +7,6 @@
 - [x] Full implementation of `ConflictSeeker.GetConflicts`
 - [ ] Extract resolving policy into `RsolverPolicy`
 - [x] Abstract from file system
-- [ ] Tests
+- [x] Tests
 - [x] Integration with file system
 - [ ] Make DirectoryWrapper(string, DirectoryWrapper) private
