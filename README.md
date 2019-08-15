@@ -10,3 +10,7 @@
 - [x] Tests
 - [x] Integration with file system
 - [ ] Make DirectoryWrapper(string, DirectoryWrapper) private
+
+- [ ] Rename ResolvingPolicy -> ResolutionsFactory
+- [ ] Add logging decorator for resolutions
+- [ ] Add LoggingResolutionsFactory
